@@ -1,0 +1,4 @@
+baseURL = 'https://pieniaksr.github.io/itsanaesthetic/'
+languageCode = 'en-us'
+title = 'itsanaesthetic'
+theme = "ananke"
